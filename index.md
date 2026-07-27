@@ -179,3 +179,4 @@ We appreciate these partnerships and look forward to working with you all!
 | Asma Mansoor (Visiting Lecturer/Independent Researcher) | NUML, Pakistan | AM-Sheikh02 | [https://am-sheikh02.github.io/](https://am-sheikh02.github.io/) |
 | Mohammed (Participannt) | University of Saskatchewan | Mohammed777777777 | [https://mohammed777777777.github.io/](https://mohammed777777777.github.io/) |
 | Rashmi Dangol (Participant) | Texas A&M University | rdtamu | [https://rdtamu.github.io](https://rdtamu.github.io/) |
+
